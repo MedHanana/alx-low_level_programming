@@ -2,8 +2,6 @@
 #include "main.h"
 
 /**
- * main - Entry point
- *
  * print_alphabet - Prints the lowercase alphabet followed by a new line
  *			the alphabet a - z
  */
